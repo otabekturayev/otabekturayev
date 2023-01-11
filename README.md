@@ -4,7 +4,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="15px"> &nbsp; My instagram account: [@turayev_2113](https://instagram.com/turayev_2113/)
 - <img src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" width="15px"> &nbsp; My telegram account: [@otabekturayev2113](https://telegram.me/otabekturayev2113/)
 
-### Languages and tools T work with:
+### Languages and tools I work with:
 
 <code><img src="https://seeklogo.com/images/H/html5-without-wordmark-black-white-logo-104D0855A4-seeklogo.com.png" width="25px"></code>
 <code><img src="https://seeklogo.com/images/C/css-3-logo-A4E6678598-seeklogo.com.png" width="25px"></code>
