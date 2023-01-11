@@ -7,3 +7,6 @@
 ### frfrwerewrew
 
 <code><img src="https://seeklogo.com/images/H/html5-without-wordmark-black-white-logo-104D0855A4-seeklogo.com.png" width="27px"></code>
+<code><img src="https://seeklogo.com/images/C/css-3-logo-A4E6678598-seeklogo.com.png" width="27px"></code>
+<code><img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" width="27px"></code>
+<code><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-black.svg" width="27px"></code>
