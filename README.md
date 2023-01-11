@@ -5,3 +5,5 @@
 - <img src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" width="15px"> &nbsp; My telegram account: [@otabekturayev2113](https://telegram.me/otabekturayev2113/)
 
 ### frfrwerewrew
+
+<code><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"></code>
