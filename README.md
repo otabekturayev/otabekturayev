@@ -1,12 +1,16 @@
-### Hi, I'm Otabek Turayev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+<h1 align="center">Hi 👋, I'm Otabek Turayev</h1>
+<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 📍&nbsp; Current location: Karshi, Uzbekistan
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="15px"> &nbsp; My instagram account: [@turayev_2113](https://instagram.com/turayev_2113/)
-- <img src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" width="15px"> &nbsp; My telegram account: [@otabekturayev2113](https://telegram.me/otabekturayev2113/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/turayev_2113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turayev_2113" height="30" width="40" /></a>
+</p>
 
-### Languages and tools I work with:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<code><img src="https://seeklogo.com/images/H/html5-without-wordmark-black-white-logo-104D0855A4-seeklogo.com.png" width="25px"></code>
-<code><img src="https://seeklogo.com/images/C/css-3-logo-A4E6678598-seeklogo.com.png" width="25px"></code>
-<code><img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" width="35px"></code>
-<code><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-black.svg" width="35px"></code>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekturayev&show_icons=true&locale=en&layout=compact" alt="otabekturayev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otabekturayev&show_icons=true&locale=en" alt="otabekturayev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekturayev&" alt="otabekturayev" /></p>
